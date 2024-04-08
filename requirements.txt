@@ -1,0 +1,6 @@
+requests==2.31.0
+bs4==0.0.2
+beautifulsoup4==4.12.3
+pandas==2.2.1
+argparse==1.4.0
+Python==3.12.0
