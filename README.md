@@ -1,7 +1,6 @@
 # Projekt_3---Elections-Scraper
 
 Elections Scraper Projekt
-Třetí projekt pro akademii engeto.
 
 Popis Projektu:
 Tento projekt slouží pro extrahování výsledků z parlamentních voleb v roce 2017.Odkaz k prohlédnutí zde: https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ
