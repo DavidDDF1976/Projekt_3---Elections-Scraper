@@ -21,8 +21,8 @@ Následně se vám stáhnou výsledku jako soubor s připonou .csv.
 Ukázka projektu
 Výsledky hlasování pro okres Prostějov:
 
-argument: https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103
-argument: results_prostejov.csv
+1. argument: https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103
+2. argument: results_prostejov.csv
 
 Částečný výstup:
 
